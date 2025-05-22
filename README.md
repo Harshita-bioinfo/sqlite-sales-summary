@@ -1,5 +1,3 @@
----
-
 # 📊 Retail Sales Analytics using SQLite and Python
 
 ## 📦 Overview
