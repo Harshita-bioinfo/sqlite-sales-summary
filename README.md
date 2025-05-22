@@ -22,7 +22,7 @@ The goal is to build business intelligence dashboards using simple SQL queries, 
 |----------------------------------|-----------------------------------------------------------------------------|
 | `Basic_Sales_Summary_SQLite.ipynb` | Jupyter Notebook containing the complete analysis and visualizations       |
 | `SQL_queries_Output/`                | Folder containing images of the query outputs                          |
-| `README.md`                      | Project documentation and usage instrictions                                         |
+| `README.md`                      | Project documentation and usage instructions                                         |
 
 ---
 
